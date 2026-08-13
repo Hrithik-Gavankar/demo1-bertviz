@@ -27,6 +27,8 @@ Open `bertviz_demo.ipynb` in **Cursor**, **VS Code**, or **Jupyter Lab** and run
 
 Full setup for every editor and OS → [SETUP.md](SETUP.md)
 
+Questions during the lab → [FAQ.md](FAQ.md)
+
 ---
 
 ## What you will see
