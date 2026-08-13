@@ -11,8 +11,8 @@ You will see how tokens connect through attention — including whether **"it"**
 ## Quick start
 
 ```bash
-git clone https://github.com/Hrithik-Gavankar/demo1-bertviza
-cd demo1-bertviza
+git clone https://github.com/Hrithik-Gavankar/demo1-bertviz
+cd demo1-bertviz
 
 python3 -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\Activate.ps1
@@ -42,7 +42,7 @@ Full setup for every editor and OS → [SETUP.md](SETUP.md)
 ## Project structure
 
 ```text
-demo1-bertviza/
+demo1-bertviz/
 ├── README.md
 ├── SETUP.md              # detailed setup (Cursor, VS Code, Jupyter, Colab)
 ├── requirements.txt

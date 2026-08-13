@@ -15,8 +15,8 @@ Run the BertViz attention demo locally using **any** of these editors:
 ## Clone the repo
 
 ```bash
-git clone https://github.com/Hrithik-Gavankar/demo1-bertviza
-cd demo1-bertviza
+git clone https://github.com/Hrithik-Gavankar/demo1-bertviz
+cd demo1-bertviz
 ```
 
 ---
@@ -93,7 +93,7 @@ Skip this if you only use **Cursor** or **VS Code** — they use `.venv` directl
 
 ### A) Cursor
 
-1. **File → Open Folder** → select the cloned `demo1-bertviza` folder
+1. **File → Open Folder** → select the cloned `demo1-bertviz` folder
 2. Open `bertviz_demo.ipynb`
 3. Kernel picker (top-right) → **`.venv (Python 3.x)`**
 4. Run all cells
@@ -105,7 +105,7 @@ Skip this if you only use **Cursor** or **VS Code** — they use `.venv` directl
 ### B) VS Code
 
 1. Install **Python** and **Jupyter** extensions if prompted
-2. **File → Open Folder** → `demo1-bertviza`
+2. **File → Open Folder** → `demo1-bertviz`
 3. Open `bertviz_demo.ipynb`
 4. Kernel picker → **`.venv (Python 3.x)`**
 5. Run all cells
@@ -170,8 +170,8 @@ head_view(outputs.attentions, tokens)
 ### macOS
 
 ```bash
-git clone https://github.com/Hrithik-Gavankar/demo1-bertviza
-cd demo1-bertviza
+git clone https://github.com/Hrithik-Gavankar/demo1-bertviz
+cd demo1-bertviz
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -182,8 +182,8 @@ python -m ipykernel install --user --name=demo1-bertviz --display-name="Python (
 
 ```bash
 sudo apt update && sudo apt install python3 python3-venv python3-pip git -y
-git clone https://github.com/Hrithik-Gavankar/demo1-bertviza
-cd demo1-bertviza
+git clone https://github.com/Hrithik-Gavankar/demo1-bertviz
+cd demo1-bertviz
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -193,8 +193,8 @@ python -m ipykernel install --user --name=demo1-bertviz --display-name="Python (
 ### Windows (PowerShell)
 
 ```powershell
-git clone https://github.com/Hrithik-Gavankar/demo1-bertviza
-cd demo1-bertviza
+git clone https://github.com/Hrithik-Gavankar/demo1-bertviz
+cd demo1-bertviz
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
