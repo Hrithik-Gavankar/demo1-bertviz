@@ -1,0 +1,6 @@
+bertviz
+transformers
+torch
+jupyter
+ipykernel
+ipywidgets
