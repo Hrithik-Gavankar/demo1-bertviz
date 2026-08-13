@@ -93,7 +93,7 @@ Skip this if you only use **Cursor** or **VS Code** — they use `.venv` directl
 
 ### A) Cursor
 
-1. **File → Open Folder** → select the cloned `demo1-bertviz` folder
+1. **File → Open Folder** → select the cloned `demo1-bertviza` folder
 2. Open `bertviz_demo.ipynb`
 3. Kernel picker (top-right) → **`.venv (Python 3.x)`**
 4. Run all cells
@@ -105,7 +105,7 @@ Skip this if you only use **Cursor** or **VS Code** — they use `.venv` directl
 ### B) VS Code
 
 1. Install **Python** and **Jupyter** extensions if prompted
-2. **File → Open Folder** → `demo1-bertviz`
+2. **File → Open Folder** → `demo1-bertviza`
 3. Open `bertviz_demo.ipynb`
 4. Kernel picker → **`.venv (Python 3.x)`**
 5. Run all cells

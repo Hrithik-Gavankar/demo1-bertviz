@@ -42,7 +42,7 @@ Full setup for every editor and OS → [SETUP.md](SETUP.md)
 ## Project structure
 
 ```text
-demo1-bertviz/
+demo1-bertviza/
 ├── README.md
 ├── SETUP.md              # detailed setup (Cursor, VS Code, Jupyter, Colab)
 ├── requirements.txt
